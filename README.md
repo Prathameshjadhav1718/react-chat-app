@@ -2,21 +2,33 @@
 PROJECT LINK : 
 
 🚀Functionality:
+
 	🔹Assumed dummy logged in user.
+	
 	🔹Used a json file to load some dummy data in the project.
+	
 	🔹Search : conversations are searchable by contact name.
 
 🚀Left sidebar:
+
 	🔹Shown all the conversations created here.
+	
 	🔹Each conversation have the contact name and some text of the last message in the chat.
+	
 
-🚀Create conversation button
+🚀Create conversation button:
+
 	🔹On clicking open a pop up and load all the contacts (from the dummy data.json/js file).
+	
 	🔹On clicking start a new conversation (if no conversation was previously started). Or existing conversation for that contact.
+	
 
-🚀Right side view
+🚀Right side view:
+
 	🔹Shows current selected conversation messages.
+	
 	🔹Send a message in the conversation.
+	
 
 🚀Handle's errors and success alerts and show appropriate Alert/Notification.
 
